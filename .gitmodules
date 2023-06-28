@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dSVA"]
 	path = dSVA
 	url = https://github.com/cran/dSVA
-	shallow = true
-	registered = true
 [submodule "MetaSKAT"]
 	path = MetaSKAT
 	url = https://github.com/cran/MetaSKAT
-	shallow = true
-	registered = true
