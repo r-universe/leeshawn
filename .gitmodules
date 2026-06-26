@@ -5,6 +5,3 @@
 [submodule "MetaSKAT"]
 	path = MetaSKAT
 	url = https://github.com/cran/MetaSKAT
-[submodule "dSVA"]
-	path = dSVA
-	url = https://github.com/cran/dSVA
